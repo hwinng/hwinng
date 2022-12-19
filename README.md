@@ -1,8 +1,8 @@
 ## Hi 👋🏼, I'm Van Huyen (Phillip) Nguyen
-I am a software engineer with almost three years of experience working on full-stack web  and mobile technologies. Recently, I've joined <a href="https://vn.got-it.ai/" target="_blank">@GotIt</a>, a Silicon Valley start-up.
+I am a software engineer with almost three years of experience working on full-stack web development. Recently, I've joined <a href="https://vn.got-it.ai/" target="_blank">@GotIt</a>, a Silicon Valley start-up based.
 
-- 🌱 I’m currently working as Frontend Software Engineer.
-- 💬 Ask me about **Node, React, React Native, Javascript and Typescript**
+- 🌱 I’m currently working as Frontend Software Engineer at <a href="https://vn.got-it.ai/" target="_blank">@GotIt</a>.
+- 💬 Ask me about **Javascript, Typescript and React**
 - 📫 How to reach me: `phillipng.working@gmail.com`
 
 ### Languages
